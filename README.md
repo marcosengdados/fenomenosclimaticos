@@ -35,3 +35,8 @@ Suporte à agricultura de precisão
 Análises em planos diretores municipais e ambientais
 
 Projetos de extensão universitária ou consultoria técnica
+
+O que gerou duas produções acadêmicas com temas relacionados pós desenvolvimento do projeto iniciail, como forma continuação e o trabalho usado como base para tal código.
+
+1. Página 65, https://drive.google.com/file/d/1msUWalGYfmdL4rwnmmrCaugMtiU82sGg/view
+2. https://www.even3.com.br/anais/conferencia-nacional-engenharia-ambiental-sanitaria-coneas-473788/919649-explorando-tendencias-meteorologicas-com-python--analise-de-series-temporais
