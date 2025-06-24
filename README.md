@@ -23,3 +23,15 @@ ClimateLens é um projeto desenvolvido em Python, voltado à análise de séries
 ✅ Foco em sustentabilidade e adaptação climática: Apoia ações baseadas em dados para mitigação de riscos ambientais.
 
 ✅ Pronto para expansão com IA: A estrutura permite integração com modelos preditivos baseados em machine learning.
+
+# 🔬 Aplicações e Cenários de Uso
+
+Monitoramento climático local ou regional
+
+Detecção de tendências de mudança climática
+
+Suporte à agricultura de precisão
+
+Análises em planos diretores municipais e ambientais
+
+Projetos de extensão universitária ou consultoria técnica
